@@ -1,10 +1,11 @@
 import React from 'react'
-import Pokedex from './Component/Pokedex'
+import CustomRoutes from './routes/CustomRoutes'
+
 
 const App = () => {
   return (
     <>
-      <Pokedex/>
+     <CustomRoutes/>
     </>
   )
 }
